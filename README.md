@@ -4,7 +4,7 @@ Text-based game "Mistress Sary" (Russian: "Хозяйка Сэри") by Chicago1
 
 The game is in Russian, developed for AkURQ, adapted for FireURQ, and adapted for [UrqW](https://github.com/urqw/UrqW) text-based game engine.
 
-This repository contains the source code and other resources of the game. The game is available for launch in the [UrqW engine online catalog](https://urqw.github.io/UrqW/#mistress_sary).
+This repository contains the source code and other resources of the game. The game is available for launch in the [UrqW engine online catalog](https://urqw.github.io/UrqW/?id=mistress_sary).
 
 The game was first published on June 2, 2006.
 
